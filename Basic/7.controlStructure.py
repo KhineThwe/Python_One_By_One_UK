@@ -3,8 +3,8 @@
 # else if ---> elif
 #else
 
-#with control structure
-#operator Logical , Comparison
+# with control structure
+# operator Logical , Comparison
 # and or , == , !=,>,<,<=,>=
 
 a = 10
