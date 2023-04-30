@@ -12,7 +12,7 @@ b =4
 while a < b:
     print("Hello",a)
     a+=1
-    # a = a - 1
+    # a = a + 1
 
 #infinite
 #Hello
