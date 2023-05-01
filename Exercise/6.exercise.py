@@ -1,0 +1,6 @@
+username = input("Enter your name: ")
+print("Welcome from IT World,{}".format(username))
+age = int(input("Enter your age: "))
+print("{0} age is : {1}".format(username,age))
+subject = input("Enter your course: ")
+print(f'{username} is attending {subject}')
