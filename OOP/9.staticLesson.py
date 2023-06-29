@@ -8,5 +8,5 @@ if __name__ == '__main__':
     # result = cal.addNumbers(10,20)
     # print(result)
 
-    result = Calculator.addNumbers(10,20)
+    result = Calculator.addNumbers(20,20)
     print(result)
