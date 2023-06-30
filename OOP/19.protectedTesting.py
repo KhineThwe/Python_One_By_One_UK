@@ -2,8 +2,8 @@ class Parent:
     def __init__(self,age):
         self._age = age
 
-    def getData(self):
-        return self._age
+    def getData(self):#header
+        return self._age#body
 
 class Sub(Parent):
     def __init__(self,age):
