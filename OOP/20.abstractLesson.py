@@ -7,6 +7,7 @@ from abc import ABC,abstractmethod
 
 #abstract class
 class Animal(ABC):
+    #annotation
     @abstractmethod
     def speak(self):#header
        pass
