@@ -1,4 +1,4 @@
-from zope.interface import Interface,implementer,Attribute
+from zope.interface import Interface,implementer
 
 class IShape(Interface):
     def area(self):
