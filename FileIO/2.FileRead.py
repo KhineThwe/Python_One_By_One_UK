@@ -1,0 +1,5 @@
+file = open('data.txt','r')
+print("Success of opening file")
+data = file.readline()
+print(data)
+print(type(data))

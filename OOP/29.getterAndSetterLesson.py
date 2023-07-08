@@ -27,3 +27,7 @@ if __name__ == '__main__':
     realName1 = person.get_name()
     print(realName1)
 
+    person.set_age(25)
+    realAge = person.get_age()
+    print(realAge)
+
